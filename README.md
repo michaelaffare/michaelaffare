@@ -1,5 +1,5 @@
 # Michael Affare
-### Solutions Architect | Business Intelligence Engineer | Data Strategist
+### Data Analytics Manager | Software Solutions Architect | Software Engineer
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
