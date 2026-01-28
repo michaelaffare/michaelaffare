@@ -48,8 +48,7 @@ Currently, I lead data initiatives at **Great Lakes Behavioral Research Institut
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michaelaffare&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&icon_color=007acc&text_color=333" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelaffare&layout=compact&theme=transparent&hide_border=true&title_color=007acc&text_color=333" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=michaelaffare&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&icon_color=007acc&text_color=333" width="60%" />
 </p>
 
 ---
