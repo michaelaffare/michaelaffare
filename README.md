@@ -12,7 +12,7 @@
 ---
 
 ## 👨‍💻 About Me
-A results-driven **Solutions Architect** and **BI Engineer** with over 8 years of experience building scalable data ecosystems. I specialize in transforming raw data into strategic assets using cloud infrastructure, advanced analytics, and automated ETL pipelines. 
+A results-driven **Data Analytics Manager** with **Solutions Architect** and **BI Engineer** expertise having over 8 years of experience building scalable data ecosystems. I specialize in transforming raw data into strategic assets using cloud infrastructure, advanced analytics, and automated ETL pipelines. 
 
 Currently, I lead data initiatives at **Great Lakes Behavioral Research Institute**, where I bridge the gap between technical architecture and human services impact.
 
