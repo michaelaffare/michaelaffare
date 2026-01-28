@@ -8,14 +8,14 @@
 
 **Business Intelligence Engineer | Cloud Solutions Architect | Data Analytics Leader**
 
-I bring 8 years of experience as a data professional and cloud solutions architect, enabling digital transformation with modern cloud and AI technologies delivered to industry and security standards. I design secure, scalable analytics systems that unlock actionable insights and improve decision‑making, performance reporting, and process efficiency.
+I bring 8 years of experience as a data professional and cloud solutions architect, enabling digital transformation with modern cloud and AI technologies delivered to industry and security standards. I design secure, scalable analytics systems that unlock actionable insights and improve decision-making, performance reporting, and process efficiency.
 
-I've led end‑to‑end data and product initiatives across telecommunications, public sector, supply chain, and research—partnering with cross‑functional teams to turn messy data into practical, high‑impact solutions. Known as a collaborative, growth‑minded teammate, I learn quickly, plan carefully, and focus on measurable outcomes.
+I've led end-to-end data and product initiatives across telecommunications, public sector, supply chain, and research—partnering with cross-functional teams to turn messy data into practical, high-impact solutions. Known as a collaborative, growth-minded teammate, I learn quickly, plan carefully, and focus on measurable outcomes.
 
 ### 🎯 Recent Highlights
 - 💰 Modernized analytics operations supporting **$170M+ in annual program decisions**
-- 🔄 Automated multi‑partner ETL pipelines
-- 📊 Launched self‑service BI environments with role‑based access
+- 🔄 Automated multi-partner ETL pipelines
+- 📊 Launched self-service BI environments with role-based access
 - 🔒 Advanced data governance and predictive risk modeling to improve outreach and engagement
 
 ## 💼 Core Expertise
